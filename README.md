@@ -1,1 +1,2 @@
-# docs_resources
+# Initial page
+
